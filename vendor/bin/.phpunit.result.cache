@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserTest::testClassConstructor":3,"UserTest::testSayName":4,"UserTest::testSayAge":4},"times":{"UserTest::testClassConstructor":0.013,"UserTest::testSayName":0.002,"UserTest::testSayAge":0,"UserTest::testAddFavoriteMovie":0.001,"UserTest::testRemoveFavoriteMovie":0.003}}
